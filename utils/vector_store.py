@@ -11,7 +11,7 @@ MODEL = "gpt-4o-mini"
 
 class VectorStore:
     def __init__(self):
-        self.client = chromadb.Client()
+        self.client = chromadb.EphemeralClient()
         self.oai = OpenAI(
             api_key=API_KEY,
             base_url=BASE_URL,
