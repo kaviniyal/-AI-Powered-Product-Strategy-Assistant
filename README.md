@@ -51,7 +51,7 @@ Agents are orchestrated sequentially — each agent receives the insights from a
 ## Project Structure
 
 ```
-Assignment 3/
+AI Powered Product Strategy Assistant/
 ├── app.py                          # Main Streamlit application
 ├── generate_sample_report.py       # Script to generate sample PDF from CLI
 ├── generate_architecture_diagram.py# Script to regenerate architecture diagram
