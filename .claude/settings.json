@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"c:\\\\Users\\\\kavin.k\\\\Desktop\\\\Assignment 3\\\\Sample Sales Data.csv\" -TotalCount 20)",
+      "Bash(pip install *)",
+      "Bash(python -c \"import anthropic, streamlit, chromadb, pandas, reportlab; print\\('All packages OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(start cmd *)",
+      "Bash(python generate_architecture_diagram.py)",
+      "Bash(python generate_sample_report.py)",
+      "Bash(python -c \"import plotly; import app\")",
+      "Bash(python -c \"from pypdf import PdfReader; print\\('pypdf OK'\\)\")",
+      "Bash(python -c \"import warnings; warnings.filterwarnings\\('ignore'\\); import app\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('utils/data_processor.py', encoding='utf-8'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
+      "Bash(python -c \"import utils.data_processor as m; print\\([x for x in dir\\(m\\) if not x.startswith\\('_'\\)]\\)\")",
+      "Bash(git init *)",
+      "Bash(git remote *)"
+    ]
+  }
+}
