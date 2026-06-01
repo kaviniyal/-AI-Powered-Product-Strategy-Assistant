@@ -1,5 +1,10 @@
 # AI-Powered Product Strategy Assistant
 
+## 🚀 Live Application
+**[https://ai-powered-product-strategy-assistant.onrender.com/](https://ai-powered-product-strategy-assistant.onrender.com/)**
+
+---
+
 An intelligent multi-agent system that helps Product Managers analyze business data and generate strategic insights, SWOT analysis, feature prioritization, and downloadable executive reports.
 
 ---
